@@ -24,7 +24,7 @@ python typing_assistant.py
 1. Set your target WPM when prompted
 2. Choose fresh or profile browser session
 3. Navigate to a typing test site
-4. Press **F2** when the test text is loaded — typing starts automatically
+4. Press **F2** when the test text is loaded - typing starts automatically
 5. Press **ESC** to quit
 
 ## How it works
